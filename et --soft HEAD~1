@@ -1,0 +1,35 @@
+[33mcommit 42eef86bfe1413b4ae8395fdbe4834d50ca46eb3[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: DroolingWithSanity <laurencekidney@gmail.com>
+Date:   Wed Jul 2 13:39:27 2025 +0000
+
+    Initial repository structure with environment templates
+    
+     Changes to be committed:
+            new file:   backend/.env.sample
+            new file:   backend/agents/billingAgent.js
+            new file:   backend/documentAI.js
+            new file:   backend/package-lock.json
+            new file:   backend/package.json
+            new file:   backend/routes/payments.js
+            new file:   backend/sudo
+            new file:   backend/node_modules/
+            new file:   backend/src/
+            new file:   frontend/
+            new file:   frontend1/
+            new file:   frontend2/
+            new file:   node_modules/
+     Untracked files:
+            backend/node_modules/
+            backend/src/
+            frontend/
+            frontend1/
+            frontend2/
+            node_modules/
+
+A	backend/.env.sample
+A	backend/agents/billingAgent.js
+A	backend/documentAI.js
+A	backend/package-lock.json
+A	backend/package.json
+A	backend/routes/payments.js
+A	backend/sudo

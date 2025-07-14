@@ -1,0 +1,23 @@
+{
+  "[project]/components/BillVisualization.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/BillVisualization.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_3d89e6cc._.js",
+      "static/chunks/components_BillVisualization_tsx_0077f2ad._.js"
+    ]
+  },
+  "[project]/components/WebAuthnButton.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/WebAuthnButton.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_54d46673._.js",
+      "static/chunks/components_WebAuthnButton_0077f2ad.js"
+    ]
+  },
+  "[project]/components/SideAuthenticator.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/SideAuthenticator.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_13612aa6._.js",
+      "static/chunks/components_SideAuthenticator_0077f2ad.js"
+    ]
+  }
+}
